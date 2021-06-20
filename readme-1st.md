@@ -7,6 +7,10 @@
 
 Read.you is a readme generator for GitHub repos. The app asks the user simple questions about the project and creates a professional looking read me they can copy and paste into their own project. The app generates a link for the users Repo. 
 
+## Video
+
+https://drive.google.com/file/d/1qBCHI-i5xOJb7aIwQL3_zXm51xppXF6m/view
+
 
 ## Table of Contents 
 
